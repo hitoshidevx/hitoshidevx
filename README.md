@@ -15,7 +15,7 @@
 
 ### Me procurando? Aqui estou! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel Yokogawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-GabrielYokogawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
 
 Volte sempre! xD
 
