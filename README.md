@@ -1,12 +1,13 @@
-<h2 align="center">E aí! 👋</h2>
+### E aí! 👋
 
-<p align="center">Gabriel Hitoshi, 16 anos</p>
+Gabriel Hitoshi, 16 anos
 
-<h3 align="center">Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP</h3>
+### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática
 
-<p align="center">💻 _Conhecimentos em:
-<blockquote align="center">HTML</blockquote>
-</p>
+💻 *Conhecimentos em:*
+> _HTML
+> _CSS
+> _C#
 
 Volte sempre! xD
 
