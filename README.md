@@ -1,5 +1,7 @@
 ### E aí! 👋
 
+<h1 align="center">E aí! 👋</h1>
+
 ### Gabriel Hitoshi, 16 anos
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
