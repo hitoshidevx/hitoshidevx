@@ -5,9 +5,9 @@
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática
 
 💻 *Conhecimentos em:*
-> _HTML
-> _CSS
-> _C#
+> _HTML_
+> _CSS_
+> _C#_
 
 Volte sempre! xD
 
