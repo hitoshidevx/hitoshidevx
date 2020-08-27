@@ -1,4 +1,4 @@
-<h1 align="center">E aí! 👋</h1>
+<h3 align="center">E aí! 👋</h3>
 
 <p align="justify">Gabriel Hitoshi, 16 anos</p>
 
