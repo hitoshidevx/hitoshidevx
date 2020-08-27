@@ -20,8 +20,6 @@
 [![99freelas Badge](https://img.shields.io/badge/-GabrielY-plum?style=flat-square&logo=99freelas&logoColor=white&link=https://www.99freelas.com.br/user/GabrielYokogawa)](https://www.99freelas.com.br/user/GabrielYokogawa)
 
 
-Volte sempre! xD
-
 <!--
 **hitoshidevx/hitoshidevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
