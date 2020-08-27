@@ -1,4 +1,13 @@
-### Hi there 👋
+### E aí! 👋
+
+### Gabriel Hitoshi, 16 anos
+
+### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
+
+💻 Conhecimentos em HTML, CSS e C#
+🚀 Disposto para novas experiências!
+
+Volte sempre! xD
 
 <!--
 **hitoshidevx/hitoshidevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
