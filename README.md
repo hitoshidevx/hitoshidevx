@@ -13,7 +13,7 @@
 
 > **_SQL Server_**
 
-### Está me procurando? Aqui estou! 
+### Me procurando? Aqui estou! 
 
 Volte sempre! xD
 
