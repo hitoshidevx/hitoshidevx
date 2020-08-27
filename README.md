@@ -6,7 +6,9 @@
 
 💻 *Conhecimentos em:*
 > _HTML_
+
 > _CSS_
+
 > _C#_
 
 Volte sempre! xD
