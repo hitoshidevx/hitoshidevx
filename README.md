@@ -2,7 +2,7 @@
 
 ### Gabriel Hitoshi, 16 anos
 
-### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática
+### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
 
 💻 Conhecimentos em:
 > **_HTML_**
