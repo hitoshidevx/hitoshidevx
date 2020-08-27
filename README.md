@@ -4,7 +4,7 @@
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática
 
-💻 *Conhecimentos em:*
+💻 **Conhecimentos em:**
 > _HTML_
 
 > _CSS_
