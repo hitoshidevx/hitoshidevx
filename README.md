@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
 [![Gmail Badge](https://img.shields.io/badge/-g.hitoshi.yokogawa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.hitoshi.yokogawa@gmail.com)](mailto:g.hitoshi.yokogawa@gmail.com)
-[![99freelas Badge](https://img.shields.io/badge/-GabrielY-aqua?style=flat-square&logo=99freelas&logoColor=white&link=https://www.99freelas.com.br/user/GabrielYokogawa)](https://www.99freelas.com.br/user/GabrielYokogawa)
+[![99freelas Badge](https://img.shields.io/badge/-GabrielY-plum?style=flat-square&logo=99freelas&logoColor=white&link=https://www.99freelas.com.br/user/GabrielYokogawa)](https://www.99freelas.com.br/user/GabrielYokogawa)
 
 
 Volte sempre! xD
