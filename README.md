@@ -4,8 +4,8 @@
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
 
-💻 Conhecimentos em HTML, CSS e C#
-🚀 Disposto para novas experiências!
+💻 _Conhecimentos em HTML, CSS e C#
+🚀 Disposto para novas experiências!_
 
 Volte sempre! xD
 
