@@ -1,5 +1,3 @@
-### E aí! 👋
-
 <h1 align="center">E aí! 👋</h1>
 
 ### Gabriel Hitoshi, 16 anos
