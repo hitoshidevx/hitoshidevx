@@ -15,7 +15,9 @@
 
 ### Me procurando? Aqui estou! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-GabrielYokogawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-GabrielY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
+[![Gmail Badge](https://img.shields.io/badge/-g.hitoshi.yokogawa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.hitoshi.yokogawa@gmail.com)](mailto:g.hitoshi.yokogawa@gmail.com)
+
 
 Volte sempre! xD
 
