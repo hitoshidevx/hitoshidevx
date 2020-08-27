@@ -4,8 +4,8 @@
 
 <h3 align="center">Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP</h3>
 
-<p align="center">💻 _Conhecimentos em
-<blockquote>HTML</blockquote>
+<p align="center">💻 _Conhecimentos em:
+<blockquote align="center">HTML</blockquote>
 </p>
 
 Volte sempre! xD
