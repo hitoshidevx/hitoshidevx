@@ -4,14 +4,14 @@
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática
 
-💻 **Conhecimentos em:**
-> _HTML_
+💻 Conhecimentos em:
+> **_HTML_**
 
-> _CSS_
+> **_CSS_**
 
-> _C#_
+> **_C#_**
 
-> _SQL Server_
+> **_SQL Server_**
 
 ### Está me procurando? Aqui estou! 
 
