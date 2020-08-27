@@ -15,9 +15,8 @@
 
 ### Me procurando? Aqui estou! 
 
- <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
+[![Linkedin Badge](https://img.shields.io/badge/-hitoshidev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
+[![Gmail Badge](https://img.shields.io/badge/-eumadu.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eumadu.silva@gmail.com)](mailto:eumadu.silva@gmail.com)
 
 Volte sempre! xD
 
