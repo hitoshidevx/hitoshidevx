@@ -4,6 +4,8 @@
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
 
+### CTO da empresa OverDev
+
 💻 Conhecimentos em:
 > **_HTML_**
 
