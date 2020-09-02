@@ -21,11 +21,11 @@
 
 See ya! :octocat:
 
-<a href="https://github.com/MaduSilva/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
+<a href="https://github.com/hitoshidevx/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hitoshidevx&show_icons=true" />
 </a>
-<a href="https://github.com/MaduSilva/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva" />
+<a href="https://github.com/hitoshidevx/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitoshidevx" />
 </a>
 
 
