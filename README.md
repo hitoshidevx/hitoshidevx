@@ -19,6 +19,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-g.hitoshi.yokogawa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.hitoshi.yokogawa@gmail.com)](mailto:g.hitoshi.yokogawa@gmail.com)
 [![99freelas Badge](https://img.shields.io/badge/-GabrielY-plum?style=flat-square&logo=99freelas&logoColor=white&link=https://www.99freelas.com.br/user/GabrielYokogawa)](https://www.99freelas.com.br/user/GabrielYokogawa)
 
+See ya! :octocat:
+
+<a href="https://github.com/MaduSilva/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaduSilva&show_icons=true" />
+</a>
+<a href="https://github.com/MaduSilva/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduSilva" />
+</a>
+
+
 
 <!--
 **hitoshidevx/hitoshidevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
