@@ -13,6 +13,8 @@
 
 > **_SQL Server_**
 
+> **_JavaScript_**
+
 ### Me procurando? Aqui estou! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
