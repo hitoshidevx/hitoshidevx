@@ -1,6 +1,6 @@
 ### E aí! 👋
 
-### Gabriel Hitoshi, 16 anos
+### Gabriel Hitoshi, 17 anos
 
 ### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
 
