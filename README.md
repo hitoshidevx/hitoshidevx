@@ -1,52 +1,26 @@
-### E aí! 👋
-
-### Gabriel Hitoshi, 17 anos
-
-### Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática - SP
-
-💻 Conhecimentos em:
-> **_HTML_**
-
-> **_CSS_**
-
-> **_C#_**
-
-> **_SQL Server_**
-
-> **_JavaScript_**
-
-> **_React_**
-
-> **_NodeJs_**
-
-### Me procurando? Aqui estou! 
-
-[![Linkedin Badge](https://img.shields.io/badge/-GabrielY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)](https://www.linkedin.com/in/gabriel-yokogawa-95690b1b4/)
-[![Gmail Badge](https://img.shields.io/badge/-g.hitoshi.yokogawa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.hitoshi.yokogawa@gmail.com)](mailto:g.hitoshi.yokogawa@gmail.com)
-[![99freelas Badge](https://img.shields.io/badge/-GabrielY-plum?style=flat-square&logo=99freelas&logoColor=white&link=https://www.99freelas.com.br/user/GabrielYokogawa)](https://www.99freelas.com.br/user/GabrielYokogawa)
-
-See ya! :octocat:
-
-<a href="https://github.com/hitoshidevx/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hitoshidevx&show_icons=true" />
-</a>
-<a href="https://github.com/hitoshidevx/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitoshidevx" />
-</a>
-
-
-
-<!--
-**hitoshidevx/hitoshidevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opa!! Sou o Gabriel Hitoshi!
+ <div>
+  <a href="https://github.com/hitoshidevx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitoshidevx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitoshidevx&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hitoshi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hitoshi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Hitoshi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Hitoshi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Hitoshi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Hitoshi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCHDuBliVyZRGgwiX33BVk-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/hitycce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@g.hitoshi.yokogawa"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/gabriel-yokogawa-95690b1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
